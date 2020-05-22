@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DebuggingDemo</string>
+    <string name="print_array_string">Print array values!</string>
+    <string name="array_values_string">Array values!</string>
+</resources>
